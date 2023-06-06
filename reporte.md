@@ -20,4 +20,7 @@ Finalmente en el capítulo 3 vamos a presentar las conclusiones del trabajo.
 
 # Desarrollo
 
+Como primera parte de la metodología bla bla bla.
+En segundo lugar bla bla bla.
+
 # Conclusión
