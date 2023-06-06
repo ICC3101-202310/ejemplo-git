@@ -1,8 +1,8 @@
 # Introducción
 
-En este trabajo vamos a analisar bla bla bla.
+En este trabajo vamos a analizar bla bla bla.
 Para esto, comenzaremos haciendo bla bla bla.
-Luego haremos bla bla bla.
+Luego haremos bla bla bla, y también bla bla bla.
 
 ## Metodología
 
