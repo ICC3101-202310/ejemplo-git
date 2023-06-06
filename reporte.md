@@ -24,3 +24,7 @@ Como primera parte de la metodología bla bla bla.
 En segundo lugar bla bla bla.
 
 # Conclusión
+
+Después de realizados los análisis podemos concluir que bla bla bla.
+
+En base a lo anterior damos por cumplido el objetivo general del trabajo.
